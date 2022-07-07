@@ -1,0 +1,202 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 21858,
+      "max": [
+        6.033330917358398,
+        15.331167221069336,
+        4.405147075653076
+      ],
+      "min": [
+        -8.04803466796875,
+        4.476683139801025,
+        -7.514164924621582
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 262296,
+      "componentType": 5126,
+      "count": 21858,
+      "max": [
+        0.9999638199806213,
+        0.9999802112579346,
+        0.9998772740364075
+      ],
+      "min": [
+        -0.9999324083328247,
+        -0.9998842477798462,
+        -0.9999862909317017
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 21858,
+      "max": [
+        0.9965620040893555,
+        0.9999920129776001
+      ],
+      "min": [
+        6.600000051548705e-05,
+        0.00015999999595806003
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 113616,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "UWBaltic (https://sketchfab.com/UWbaltic)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ccr-diver-8c9e916421714a1182bb8312e00fa609",
+      "title": "CCR diver"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 454464,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 174864,
+      "byteOffset": 454464,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 524592,
+      "byteOffset": 629328,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1153920,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/eCCr_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "eCCr",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6053734756097561,
+          0.6053734756097561,
+          0.6053734756097561,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.04275356215836257,
+        -0.006078097619561189,
+        0.020655081576157253,
+        0.0,
+        0.009281649648390233,
+        -0.036233039924855374,
+        -0.029874078175091474,
+        0.0,
+        0.01942747127075739,
+        0.03068658269322167,
+        -0.03118252293346057,
+        0.0,
+        -1.397101640701294,
+        -38.379604339599624,
+        66.79441070556639,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "eCCr.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

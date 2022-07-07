@@ -1,0 +1,11 @@
+Model Information:
+* title:	CCR diver
+* source:	https://sketchfab.com/3d-models/ccr-diver-8c9e916421714a1182bb8312e00fa609
+* author:	UWBaltic (https://sketchfab.com/UWbaltic)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CCR diver" (https://sketchfab.com/3d-models/ccr-diver-8c9e916421714a1182bb8312e00fa609) by UWBaltic (https://sketchfab.com/UWbaltic) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
